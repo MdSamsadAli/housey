@@ -78,7 +78,7 @@ const Header = () => {
             <div className="row align-items-center">
               <div className="col-xl-2 col-lg-2 col-6">
                 <div className="tp-header-logo">
-                  <a href="index.html">
+                  <a href="#">
                     <img
                       width="138"
                       src="/src/assets/img/logo/logo.png"
@@ -92,13 +92,13 @@ const Header = () => {
                   <nav className="tp-mobile-menu-active">
                     <ul>
                       <li className="position-static">
-                        <a href="index.html">Home</a>
+                        <a href="#">Home</a>
                         <div className="tp-mega-menu">
                           <div className="tp-main-has-submenu">
                             <div className="row gx-6 row-cols-1 row-cols-md-2 row-cols-lg-5">
                               <div className="col homemenu">
                                 <div className="homemenu-thumb mb-15">
-                                  <a href="index.html">
+                                  <a href="#">
                                     <img
                                       src="assets/img/menu-demo/demo.jpg"
                                       alt=""
@@ -107,13 +107,13 @@ const Header = () => {
                                 </div>
                                 <div className="homemenu-content text-center">
                                   <h4 className="homemenu-title">
-                                    <a href="index.html">Modern Hotel</a>
+                                    <a href="#">Modern Hotel</a>
                                   </h4>
                                 </div>
                               </div>
                               <div className="col homemenu">
                                 <div className="homemenu-thumb mb-15">
-                                  <a href="index-2.html">
+                                  <a href="#">
                                     <img
                                       src="assets/img/menu-demo/demo-2.jpg"
                                       alt=""
@@ -122,13 +122,13 @@ const Header = () => {
                                 </div>
                                 <div className="homemenu-content text-center">
                                   <h4 className="homemenu-title">
-                                    <a href="index-2.html">City Hotel</a>
+                                    <a href="#">City Hotel</a>
                                   </h4>
                                 </div>
                               </div>
                               <div className="col homemenu">
                                 <div className="homemenu-thumb mb-15">
-                                  <a href="index-3.html">
+                                  <a href="#">
                                     <img
                                       src="assets/img/menu-demo/demo-3.jpg"
                                       alt=""
@@ -137,13 +137,13 @@ const Header = () => {
                                 </div>
                                 <div className="homemenu-content text-center">
                                   <h4 className="homemenu-title">
-                                    <a href="index-3.html">Luxury Hotel</a>
+                                    <a href="#">Luxury Hotel</a>
                                   </h4>
                                 </div>
                               </div>
                               <div className="col homemenu">
                                 <div className="homemenu-thumb mb-15">
-                                  <a href="index-4.html">
+                                  <a href="#">
                                     <img
                                       src="assets/img/menu-demo/demo-4.jpg"
                                       alt=""
@@ -152,13 +152,13 @@ const Header = () => {
                                 </div>
                                 <div className="homemenu-content text-center">
                                   <h4 className="homemenu-title">
-                                    <a href="index-4.html">Modern Resort</a>
+                                    <a href="#">Modern Resort</a>
                                   </h4>
                                 </div>
                               </div>
                               <div className="col homemenu">
                                 <div className="homemenu-thumb mb-15">
-                                  <a href="index-5.html">
+                                  <a href="#">
                                     <img
                                       src="assets/img/menu-demo/demo-5.jpg"
                                       alt=""
@@ -167,7 +167,7 @@ const Header = () => {
                                 </div>
                                 <div className="homemenu-content text-center">
                                   <h4 className="homemenu-title">
-                                    <a href="index-5.html">Sea Hotel</a>
+                                    <a href="#">Sea Hotel</a>
                                   </h4>
                                 </div>
                               </div>
@@ -176,48 +176,48 @@ const Header = () => {
                         </div>
                       </li>
                       <li>
-                        <a href="about.html">About Us</a>
+                        <a href="#">About Us</a>
                       </li>
                       <li>
-                        <a href="room-1.html">Room</a>
+                        <a href="room-#">Room</a>
                         <ul className="tp-submenu submenu">
                           <li>
-                            <a href="room-1.html">Room One</a>
+                            <a href="room-#">Room One</a>
                           </li>
                           <li>
-                            <a href="room-1.html">Room Two</a>
+                            <a href="room-#">Room Two</a>
                           </li>
                           <li>
-                            <a href="room-2.html">Room Three</a>
+                            <a href="room-#">Room Three</a>
                           </li>
                           <li>
-                            <a href="room-details-1.html">Room Details one</a>
+                            <a href="room-details-#">Room Details one</a>
                           </li>
                           <li>
-                            <a href="room-details-1.html">Room Details Two</a>
+                            <a href="room-details-#">Room Details Two</a>
                           </li>
                           <li>
-                            <a href="room-details-2.html">Room Details Three</a>
+                            <a href="room-details-#">Room Details Three</a>
                           </li>
                         </ul>
                       </li>
                       <li>
-                        <a href="gallery.html">Gallery</a>
+                        <a href="#">Gallery</a>
                       </li>
                       <li>
-                        <a href="blog-grid.html">Blog</a>
+                        <a href="blog-#">Blog</a>
                         <ul className="tp-submenu submenu">
                           <li>
-                            <a href="blog-grid.html">Blog Grid</a>
+                            <a href="blog-#">Blog Grid</a>
                           </li>
                           <li>
-                            <a href="blog-sidebar.html">Blog Sidebar</a>
+                            <a href="blog-#">Blog Sidebar</a>
                           </li>
                           <li>
-                            <a href="blog-details.html">Blog Details</a>
+                            <a href="blog-#">Blog Details</a>
                           </li>
                           <li>
-                            <a href="blog-details-2.html">Blog Details Two</a>
+                            <a href="blog-details-#">Blog Details Two</a>
                           </li>
                         </ul>
                       </li>
@@ -225,47 +225,45 @@ const Header = () => {
                         <a href="#">Pages</a>
                         <ul className="tp-submenu submenu">
                           <li>
-                            <a href="faq.html">Faq</a>
+                            <a href="#">Faq</a>
                           </li>
                           <li>
-                            <a href="offer.html">Offer</a>
+                            <a href="#">Offer</a>
                           </li>
                           <li>
-                            <a href="pricing-plan.html">Pricing Plan</a>
+                            <a href="pricing-#">Pricing Plan</a>
                           </li>
                           <li>
-                            <a href="destination.html">Destination</a>
+                            <a href="#">Destination</a>
                           </li>
                           <li>
-                            <a href="destination-details.html">
-                              Destination Details
-                            </a>
+                            <a href="destination-#">Destination Details</a>
                           </li>
                           <li>
-                            <a href="login.html">Login</a>
+                            <a href="#">Login</a>
                           </li>
                           <li>
-                            <a href="register.html">Register</a>
+                            <a href="#">Register</a>
                           </li>
                           <li>
-                            <a href="forgot.html">Forgot</a>
+                            <a href="#">Forgot</a>
                           </li>
                           <li>
-                            <a href="cart.html">Cart</a>
+                            <a href="#">Cart</a>
                           </li>
                           <li>
-                            <a href="checkout.html">Checkout</a>
+                            <a href="#">Checkout</a>
                           </li>
                           <li>
-                            <a href="wishlist.html">Wishlist</a>
+                            <a href="#">Wishlist</a>
                           </li>
                           <li>
-                            <a href="privacy-policy.html">privacy-policy</a>
+                            <a href="privacy-#">privacy-policy</a>
                           </li>
                         </ul>
                       </li>
                       <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="#">Contact</a>
                       </li>
                     </ul>
                   </nav>
@@ -312,7 +310,7 @@ const Header = () => {
                     </form>
                   </div>
                   <div className="tp-header-btn-wrap d-none d-lg-block ml-30">
-                    <a className="tp-header-btn" href="contact.html">
+                    <a className="tp-header-btn" href="#">
                       Book Now
                     </a>
                   </div>
