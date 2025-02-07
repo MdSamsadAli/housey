@@ -11,7 +11,7 @@ const Footer = () => {
                     <a href="index.html">
                       <img
                         data-width="138"
-                        src="../src/assets/img/logo/logo-white.png"
+                        src="/assets/img/logo/logo-white.png"
                         alt="logo"
                       />
                     </a>

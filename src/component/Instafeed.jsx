@@ -6,12 +6,12 @@ import { Navigation, Pagination } from "swiper/modules";
 // import img1 from "../assets/img/instagram/01.jpg"
 const InstagramGallery = () => {
   const images = [
-    "../src/assets/img/instagram/01.jpg",
-    "../src/assets/img/instagram/02.jpg",
-    "../src/assets/img/instagram/03.jpg",
-    "../src/assets/img/instagram/04.jpg",
-    "../src/assets/img/instagram/05.jpg",
-    "../src/assets/img/instagram/06.jpg",
+    "/assets/img/instagram/01.jpg",
+    "/assets/img/instagram/02.jpg",
+    "/assets/img/instagram/03.jpg",
+    "/assets/img/instagram/04.jpg",
+    "/assets/img/instagram/05.jpg",
+    "/assets/img/instagram/06.jpg",
   ];
 
   return (

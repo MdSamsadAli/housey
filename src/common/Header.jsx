@@ -81,7 +81,7 @@ const Header = () => {
                   <a href="#">
                     <img
                       width="138"
-                      src="/src/assets/img/logo/logo.png"
+                      src="/assets/img/logo/logo.png"
                       alt="logo"
                     />
                   </a>

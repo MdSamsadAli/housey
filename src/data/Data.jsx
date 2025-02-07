@@ -29,31 +29,31 @@ export const navbar = [
 export const banner = [
   {
     id: 1,
-    icon_img: "./../src/assets/images/top_icon.png",
+    icon_img: "/assets/images/top_icon.png",
     text: `Skating Board School`,
-    img: "./../src/assets/img/hero/01.jpg",
+    img: "/assets/img/hero/01.jpg",
     btn: "Read More",
   },
 
   {
     id: 2,
-    icon_img: "./../src/assets/images/top_icon.png",
+    icon_img: "/assets/images/top_icon.png",
     text: `Skating Board School`,
-    img: "./../src/assets/img/hero/02.jpg",
+    img: "/assets/img/hero/02.jpg",
     btn: "Read More",
   },
   {
     id: 2,
-    icon_img: "./../src/assets/images/top_icon.png",
+    icon_img: "/assets/images/top_icon.png",
     text: `Skating Board School`,
-    img: "./../src/assets/img/hero/03.jpg",
+    img: "/assets/img/hero/03.jpg",
     btn: "Read More",
   },
 ];
 
 export const classes = [
   {
-    img: "./../src/assets/class1.png",
+    img: "/assets/class1.png",
     btn: "Read More",
     title: "Skateboard",
     description:
@@ -61,7 +61,7 @@ export const classes = [
   },
 
   {
-    img: "./../src/assets/class2.png",
+    img: "/assets/class2.png",
     btn: "Read More",
     title: "Skateboard",
     description:
@@ -69,7 +69,7 @@ export const classes = [
   },
 
   {
-    img: "./../src/assets/class3.png",
+    img: "/assets/class3.png",
     btn: "Read More",
     title: "Skateboard",
     description:
@@ -79,23 +79,23 @@ export const classes = [
 
 export const facility = [
   {
-    img: "./../src/assets/img/feature/03.jpg",
+    img: "/assets/img/feature/03.jpg",
     title: "Amidst Nature",
     description: "Host your events in style with our versatile meeting",
   },
 
   {
-    img: "./../src/assets/img/feature/02.jpg",
+    img: "/assets/img/feature/02.jpg",
     title: "Swimming Pool",
     description: "Host your events in style with our versatile meeting",
   },
   {
-    img: "./../src/assets/img/feature/04.jpg",
+    img: "/assets/img/feature/04.jpg",
     title: "Bus Transfer",
     description: "Host your events in style with our versatile meeting",
   },
   {
-    img: "./../src/assets/img/feature/01.jpg",
+    img: "/assets/img/feature/01.jpg",
     title: "Under Protection",
     description: "Host your events in style with our versatile meeting",
   },
@@ -103,20 +103,20 @@ export const facility = [
 
 export const SkatingV = [
   {
-    img: "./../src/assets/img/feature/03.jpg",
+    img: "/assets/img/feature/03.jpg",
     btn: "See More",
   },
 
   {
-    img: "./../src/assets/img/feature/03.jpg",
+    img: "/assets/img/feature/03.jpg",
     btn: "See More",
   },
   {
-    img: "./../src/assets/img/feature/03.jpg",
+    img: "/assets/img/feature/03.jpg",
     btn: "See More",
   },
   {
-    img: "./../src/assets/img/feature/03.jpg",
+    img: "/assets/img/feature/03.jpg",
     btn: "See More",
   },
 ];
@@ -124,7 +124,7 @@ export const SkatingV = [
 export const testimonial = [
   {
     id: 1,
-    img: "./../src/assets/img/testimonial/01.png",
+    img: "/assets/img/testimonial/01.png",
     name: "Jone Lo",
     location: "Michale",
     title: "Flexible Booking Options",
@@ -137,7 +137,7 @@ export const testimonial = [
 
   {
     id: 2,
-    img: "./../src/assets/img/testimonial/03.png",
+    img: "/assets/img/testimonial/03.png",
     name: "David James",
     location: "Michale",
     title: "Flexible Booking Options",
@@ -149,7 +149,7 @@ export const testimonial = [
 
   {
     id: 3,
-    img: "./../src/assets/img/testimonial/03.png",
+    img: "/assets/img/testimonial/03.png",
     name: "David James",
     location: "Michale",
     title: "Flexible Booking Options",
@@ -163,21 +163,21 @@ export const testimonial = [
 export const rooms = [
   {
     id: 1,
-    img: "./../src/assets/img/service/01.jpg",
+    img: "/assets/img/service/01.jpg",
   },
 
   {
     id: 2,
-    img: "./../src/assets/img/service/02.jpg",
+    img: "/assets/img/service/02.jpg",
   },
 
   {
     id: 3,
-    img: "./../src/assets/img/service/03.jpg",
+    img: "/assets/img/service/03.jpg",
   },
 
   {
     id: 4,
-    img: "./../src/assets/img/service/01.jpg",
+    img: "/assets/img/service/01.jpg",
   },
 ];
